@@ -14,7 +14,11 @@ echo "<p>Versi PHP: " . PHP_VERSION . "</p>";
 echo "<p>Waktu server: " . date('Y-m-d H:i:s') . "</p>";
 
 echo "CI/CD TEST - 27 AGUSTUS 2026";
-echo "Ini testing lagiiiiiiiiiiiiiiiii!!!!!";
+echo "<br/>";
+echo "Ini testing lagi!!!!!";
+echo "<br/>";
+echo "Clearing docker testing";
+echo "-----------------------";
 
 echo "</body>";
 echo "</html>";
