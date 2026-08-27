@@ -13,5 +13,7 @@ echo "<p>Aplikasi berjalan menggunakan PHP-FPM di Docker.</p>";
 echo "<p>Versi PHP: " . PHP_VERSION . "</p>";
 echo "<p>Waktu server: " . date('Y-m-d H:i:s') . "</p>";
 
+echo "CI/CD TEST - 27 AGUSTUS 2026";
+
 echo "</body>";
 echo "</html>";
