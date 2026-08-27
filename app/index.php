@@ -15,12 +15,7 @@ echo "<p>Waktu server: " . date('Y-m-d H:i:s') . "</p>";
 
 echo "CI/CD TEST - 27 AGUSTUS 2026";
 echo "<br/>";
-echo "Ini testing lagi!!!!!";
-echo "<br/>";
-echo "Clearing docker testing";
-echo "-----------------------";
-echo "Next apa ya???????";
-echo "-----------------------";
+echo "Ini testing from PC";
 
 echo "</body>";
 echo "</html>";
